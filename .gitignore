@@ -9,3 +9,8 @@ __pycache__/
 *.png
 *.jpg
 *.jpeg
+outputs/
+work/
+frames/
+transcripts/
+*.log
