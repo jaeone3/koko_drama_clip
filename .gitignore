@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.image_card_cta_work/
+*.image_card_cta.json
+*.mp4
+*.mov
+*.mkv
+*.png
+*.jpg
+*.jpeg
